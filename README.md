@@ -42,20 +42,14 @@ It is implemented using NodeJs.
 * And your project is live on **localhost:3000**
 * Hit **star button** if you like this project. :+1:
 
-## About
-<p>
-This <a href = "https://mehul2205-weather-website.herokuapp.com"><b>PROJECT</b><a> is also hosted on herokuapp.com<br>
-    <b>Please Visit !!!.</b>
-</p>
-
 
 ## Created By:
-<b><i>Mehul Patni</i></b><br><br>
+<b><i>Rohit Shinde</i></b><br><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [<img src="./Images/linkedin-in-brands.svg" height="30px" padding="1rem">](http://www.linkedin.com/in/mehul-patni)
+  [<img src="./Images/linkedin-in-brands.svg" height="30px" padding="1rem">](https://www.linkedin.com/in/rohit-shinde-496b501a4/)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [<img src="./Images/github-brands.svg" height="30px" padding="20%">](https://github.com/Mehul2205)
+  [<img src="./Images/github-brands.svg" height="30px" padding="20%">](https://www.instagram.com/_rohit_1803/)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [<img src="./Images/facebook-brands.svg" height="30px" padding="40">](https://www.facebook.com/mehul.patni.370)
+  [<img src="./Images/facebook-brands.svg" height="30px" padding="40">](https://www.facebook.com/profile.php?id=100025442030123)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [<img src="./Images/instagram-brands.svg" height="30px" padding="auto">](https://www.instagram.com/mehulpatni2205/)
+  [<img src="./Images/instagram-brands.svg" height="30px" padding="auto">](https://github.com/rohit180301)
